@@ -38,7 +38,6 @@ I'm a developer who enjoys turning ideas into polished, approachable software. I
 | Project | What it is |
 | --- | --- |
 | **[TeamACE](https://github.com/dntmdwns/TeamACE)** | Experiments with fast visual camera relocalization and scene understanding. |
-| **[CSE316-HW2](https://github.com/dntmdwns/CSE316-HW2)** | A React/Vite project where I practice building focused web experiences. |
 
 ## 📊 GitHub at a glance
 
