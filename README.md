@@ -1,59 +1,103 @@
 <div align="center">
 
-# Hey, I'm Seungjun Woo 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:312E81,100:7C3AED&height=180&section=header&text=Seungjun%20Woo&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Curious%20mind&descAlignY=62&descSize=17" width="100%" alt="Seungjun Woo header" />
 
-### Building clean interfaces, useful products, and curious experiments.
+### I build things that feel simple, useful, and intentional.
 
-[![GitHub followers](https://img.shields.io/github/followers/dntmdwns?style=flat&logo=github&label=Followers)](https://github.com/dntmdwns)
-[![Profile views](https://komarev.com/ghpvc/?username=dntmdwns&style=flat&color=6E56CF)](https://github.com/dntmdwns)
-
-</div>
-
----
-
-## ✦ A little about me
-
-I'm a developer who enjoys turning ideas into polished, approachable software. I care about the details that make a product feel good: clear structure, thoughtful interactions, and code that stays easy to change.
-
-- 🎨 Exploring **frontend development** with React and Vite
-- 🧠 Curious about **computer vision, localization, and 3D understanding**
-- 🛠️ Learning by building, iterating, and shipping
-- 📍 Based in South Korea
-
-## ⚡ Current toolbox
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<a href="https://github.com/dntmdwns"><img src="https://img.shields.io/badge/GitHub-dntmdwns-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/dntmdwns?tab=repositories"><img src="https://img.shields.io/badge/Projects-7C3AED?style=for-the-badge&logo=gitbook&logoColor=white" alt="Projects" /></a>
+<img src="https://komarev.com/ghpvc/?username=dntmdwns&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
-## 🚀 Things I'm building
+<br />
 
-| Project | What it is |
-| --- | --- |
-| **[TeamACE](https://github.com/dntmdwns/TeamACE)** | Experiments with fast visual camera relocalization and scene understanding. |
+<table>
+<tr>
+<td width="55%" valign="top">
 
-## 📊 GitHub at a glance
+## ✦ About me
+
+I'm **Seungjun**, a developer interested in the space where thoughtful design meets solid engineering.
+
+I like taking an idea from a rough sketch to something people can actually use — keeping the interface clear, the details polished, and the code maintainable.
+
+- 🎨 Frontend development with **React & Vite**
+- 🧠 Exploring **computer vision & 3D localization**
+- 🧪 Learning through experiments and side projects
+- 🌏 Based in **South Korea**
+
+</td>
+<td width="45%" valign="top">
+
+## Currently
+
+```text
+┌────────────────────────┐
+│  designing interfaces  │
+│  learning new ideas    │
+│  shipping small wins   │
+└────────────────────────┘
+```
+
+> “Make it work. Make it clear. Make it yours.”
+
+</td>
+</tr>
+</table>
+
+## 🧰 Tools I enjoy
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dntmdwns&show_icons=true&hide_border=true&title_color=6E56CF&icon_color=6E56CF&text_color=64748B&bg_color=00000000" alt="Seungjun's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dntmdwns&layout=compact&hide_border=true&title_color=6E56CF&text_color=64748B&bg_color=00000000" alt="Top languages" />
+<img src="https://skillicons.dev/icons?i=js,react,vite,html,css,python,pytorch,git,github,vscode&perline=10" alt="Skills: JavaScript, React, Vite, HTML, CSS, Python, PyTorch, Git, GitHub, VS Code" />
 
 </div>
 
-## ☕ Let's connect
+## ✨ Selected work
 
-If you're interested in frontend craft, computer vision, or building something thoughtful together, feel free to reach out through [GitHub](https://github.com/dntmdwns).
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [TeamACE](https://github.com/dntmdwns/TeamACE)
+
+**Visual localization · Computer vision**
+
+Research and engineering around fast camera relocalization, scene coordinates, and 3D understanding.
+
+`Python` `PyTorch` `Computer Vision`
+
+</td>
+<td width="50%" valign="top">
+
+### [CSE316-HW2](https://github.com/dntmdwns/CSE316-HW2)
+
+**Frontend · Interactive web**
+
+A React/Vite project focused on building a clean, focused, and approachable web experience.
+
+`JavaScript` `React` `Vite`
+
+</td>
+</tr>
+</table>
+
+## 📈 A glimpse at my GitHub
 
 <div align="center">
 
-*Keep learning. Keep building. Keep making it better.* ✨
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=dntmdwns&show_icons=true&hide_border=true&hide_title=true&rank_icon=github&include_all_commits=true&text_color=64748B&icon_color=7C3AED&ring_color=7C3AED&bg_color=00000000" alt="GitHub stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dntmdwns&layout=compact&hide_border=true&hide_title=true&langs_count=6&text_color=64748B&title_color=7C3AED&bg_color=00000000" alt="Top languages" />
+
+</div>
+
+<div align="center">
+
+### Thanks for stopping by 👋
+
+[![GitHub](https://img.shields.io/badge/Follow%20along-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dntmdwns)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:312E81,100:111827&height=100&section=footer" width="100%" alt="Profile footer" />
 
 </div>
